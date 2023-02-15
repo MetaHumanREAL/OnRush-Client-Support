@@ -1,2 +1,2 @@
-# OnRush-Studio-Client-Support
-Client Support for all OnRush Studio clients.
+# OnRush-Client-Support
+Client Support for all OnRush clients.
